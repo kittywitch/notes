@@ -1,0 +1,8 @@
+* Void40 Derivative
+** About
+   This is a Planck non-MIT-like keyboard. It is derived from {https://www.printables.com/model/347534-void40-a-40-ortholinear-keyboard}. It currently is, or will be built with the RP2040-Zero devboard. The alpha keyswitches are {https://www.deskhero.ca/products/matrix-labs-ffff-switch}. The outer keyswitches are the {https://www.deskhero.ca/products/nightwalker-collection-glow-in-the-dark-switches-stablizers-1} Nightcall GID Silent Linears.
+
+   The keycaps are KAT Cyberspace.
+** To-do
+   - ( ) Finish up soldering job
+   - ( ) Reflash firmware for the RP2040-Zero devboard.
