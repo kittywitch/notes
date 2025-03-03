@@ -1,0 +1,5 @@
+* Gengetsu and Mugetsu
+  ipmitool -I lanplus -H idrac-gengetsu.local.gensokyo.zone -U root -P calvin raw 0x30 0x30 0x01 0x00
+  ipmitool -I lanplus -H idrac-gengetsu.local.gensokyo.zone -U root -P calvin raw 0x30 0x30 0x02 0xff 0x10
+  ipmitool -I lanplus -H idrac-mugetsu.local.gensokyo.zone -U root -P calvin raw 0x30 0x30 0x01 0x00
+  ipmitool -I lanplus -H idrac-mugetsu.local.gensokyo.zone -U root -P calvin raw 0x30 0x30 0x02 0xff 0x10
