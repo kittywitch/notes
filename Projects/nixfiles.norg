@@ -1,0 +1,7 @@
+* Nixfiles
+** To-do
+   - ( ) Conky
+   -- ( ) Break up components.lua into components/(cpu.lua,gpu.lua,...).
+   -- ( ) Make an extern subfolder for the third-party libraries.
+   -- ( ) Redo CPU component view logic
+   -- ( ) Make entrypoint called init.lua
