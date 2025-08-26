@@ -3,6 +3,10 @@
 * https://github.com/matchai/awesome-pinned-gists?tab=readme-ov-file
 	* https://github.com/RangerDigital/neko-box
 * https://github.com/simonecorsi/mawesome
+* Radicle and JJ
+	* https://github.com/jj-vcs/jj
+	* https://radicle.xyz/
+	* https://radicle.xyz/2025/08/14/jujutsu-with-radicle
 * Try to move to Anilist from Kitsu?
 	* gotta log all mango and animus
 		* steins;gate

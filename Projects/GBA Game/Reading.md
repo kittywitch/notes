@@ -1,0 +1,1 @@
+* https://www.copetti.org/writings/consoles/game-boy-advance/
