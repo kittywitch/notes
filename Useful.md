@@ -1,0 +1,1 @@
+* https://jyn.dev/tools/#everything-else - - [`#:~:text=xyz`](https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments): link to specifically the text "xyz" on a web page. works in firefox since around the end of 2024, and in chrome since a lot earlier.
