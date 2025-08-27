@@ -108,6 +108,9 @@ How very inspiring o:
 
 ##### Aria Soulkeeper; Revenant
 
+* ADPS Vindicator?
+* AHeal Vindicator
+
 ##### Octavia Shieldpaw; Guardian; PvE
 
 * DPS and BDPS?
